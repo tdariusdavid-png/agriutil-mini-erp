@@ -1,4 +1,4 @@
-const CACHE_NAME = 'agriutil-erp-v10';
+const CACHE_NAME = 'agriutil-erp-v11';
 const APP_SHELL = ['./', './index.html', './catalog.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', event => {
